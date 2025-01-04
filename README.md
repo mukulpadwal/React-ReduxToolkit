@@ -1,5 +1,10 @@
 # Redux Toolkit Tutorial
 
+## Resources
+
+- [Mastering Redux Toolkit for React State Management](https://lavender-walleye-48b.notion.site/Mastering-Redux-Toolkit-for-React-State-Management-16d7f842f321809ab2abeb70c08e5abc?pvs=74) - NOTES
+- [Excalidraw Diagram](https://excalidraw.com/#json=JnhqeF5mjg0z1HHgWDlAf,eSQcmCTmMapztj_K3PqpWQ) - EXCALI DRAW
+
 This project is a Movie Management System built using React, Redux Toolkit, and Tailwind CSS. It demonstrates the use of Redux Toolkit for state management in a React application. The application allows users to add, update, and delete movies from a list.
 
 ## Features
